@@ -2,7 +2,8 @@
 - 👀 I’m interested in anything about programing
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Awesome projects
-- 📫 How to reach me hrittane.soufiane@gmail.com
+- 🌐 My Portfolio : https://moroccan.dev
+- 📫 How to reach me info@moroccan.dev
 
 <!---
 hrittane/hrittane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
